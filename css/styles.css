@@ -1,0 +1,47 @@
+body
+{
+	font-family: "Arial";
+}
+/* BEGIN YOUR CHANGES HERE */
+body {
+	width: 100%
+}
+
+#header {
+	width: 100%:;
+	height: 80px;
+	background-color: white;
+}
+
+#logo {
+	margin-top: 29px;
+	margin-left: 70px;
+}
+
+.sub {
+	border-radius: 5px;
+	border: 1px solid #E91660;
+	background-color: #E91660;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	display: inline-block;
+}
+
+.log {
+	border: 1px solid #E91660;
+	background-color: white;
+	border-radius: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	display: inline-block;
+}
+
+#buttons {
+	margin-top: 22px;
+	margin-right: 70px;
+	float: right;
+}
